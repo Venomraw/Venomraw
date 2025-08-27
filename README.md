@@ -31,6 +31,8 @@ Metasploit
 
 Virtualization (VirtualBox, VMware)
 
+CCNA
+
 🛠️ What I'm Working On
 I use this space to document my learning journey and showcase projects related to my coursework and personal interests. You'll find repositories here for:
 
